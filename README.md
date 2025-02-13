@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Artwork Management and E-Commerce Web Application.<br>👯 I’m looking to collaborate on a web application for businesses or commerce.<br>🤝 I’m looking for internships to gain firsthand practical experience<br>🌱 I’m currently learning about web services, advanced networking, internet of things, and game programming with Unity
+🔭 I’m currently working on an Artwork Management and E-Commerce Web Application.<br>👯 I’m looking to collaborate on a web application for a businesses or commerce.<br>🤝 I’m looking for internships to gain and learn firsthand practical experience <br>🌱 I’m currently learning about web services, advanced networking, internet of things, and game programming with Unity
 
 
 ## 🌐 Socials:
